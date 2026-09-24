@@ -1,3 +1,6 @@
 [submodule "Uncooked-CPP"]
 	path = Uncooked-CPP
 	url = git@github.com:plebbian/Uncooked-CPP.git
+[submodule "Uncooked-Python"]
+	path = Uncooked-Python
+	url = git@github.com:plebbian/Uncooked-Python.git

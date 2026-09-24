@@ -6,4 +6,4 @@ https://beej.us/guide/
 
 https://www.learncpp.com/
 
-Currently C/C++ is here and Python. If I added you here, you are either trying to learn too or you are Nick and Tom who are by far the worst programmers you will ever meet in this plane of existance. 
+Currently C/C++ is here and Python. If I added you here, you are either trying to learn too or you are Nick and Tom who are by far the worst programmers you will ever meet in this plane of existence. 

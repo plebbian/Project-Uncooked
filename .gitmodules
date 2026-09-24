@@ -1,0 +1,3 @@
+[submodule "Uncooked-CPP"]
+	path = Uncooked-CPP
+	url = git@github.com:plebbian/Uncooked-CPP.git
